@@ -53,16 +53,15 @@ KG-EDAS/
 ## Citation
 
 @INPROCEEDINGS{11402521,
-  author    = {Gul, Haji and Naim, Abdul Ghani and Bhat, Ajaz Ahmad},
-  booktitle = {2025 IEEE International Conference on Big Data (BigData)},
-  title     = {{KG-EDAS: A Meta-Metric Framework for Evaluating Knowledge Graph Completion Models}},
-  year      = {2025},
-  pages     = {2823-2832},
-  doi       = {10.1109/BigData66926.2025.11402521},
-  url       = { [IEEE Big Data 2025](https://www.computer.org/csdl/proceedings-article/bigdata/2025/11402521/2eDtzuJkX9S)},
-  publisher = {IEEE Computer Society},
-  address   = {Los Alamitos, CA, USA},
-  month     = {Dec}
+  author    = {Gul, Haji and Naim, Abdul Ghani and Bhat, Ajaz Ahmad},  
+  booktitle = {2025 IEEE International Conference on Big Data (BigData)},  
+  title     = {{KG-EDAS: A Meta-Metric Framework for Evaluating Knowledge Graph Completion Models}},  
+  year      = {Dec-2025},  
+  pages     = {2823-2832},  
+  doi       = {10.1109/BigData66926.2025.11402521},  
+  url       = { [IEEE Big Data 2025](https://www.computer.org/csdl/proceedings-article/bigdata/2025/11402521/2eDtzuJkX9S)},  
+  publisher = {IEEE Computer Society},  
+  address   = {Los Alamitos, CA, USA}
 }
 
 
