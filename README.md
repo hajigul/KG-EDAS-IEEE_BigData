@@ -1,5 +1,3 @@
-# KG-EDAS-IEEE_BigData
-
 # KG-EDAS: A Meta-Metric Framework for Evaluating Knowledge Graph Completion Models
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
